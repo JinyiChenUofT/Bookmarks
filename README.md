@@ -37,3 +37,7 @@
 [C#]()
 
 [Java](https://github.com/JinyiChenUofT/Learn-Java)
+
+
+### Private Projects
+[Personal Blog](https://github.com/JinyiChenUofT/jinyichenuoft.github.io)
