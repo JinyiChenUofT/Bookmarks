@@ -25,6 +25,7 @@
 
 [eBook](https://github.com/JinyiChenUofT/eBook)
 
+[DiscoverAI](https://github.com/JinyiChenUofT/DiscoverAI-OPCity)
 ***
 
 ### Programing Questions + Languages
