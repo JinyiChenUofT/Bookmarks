@@ -42,7 +42,7 @@
 ***
 
 ### Scripts
-[addKeyToWebConfig]()
+[addKeyToWebConfig](https://github.com/JinyiChenUofT/Scripts)
 ***
 
 ### Private Projects
