@@ -29,7 +29,7 @@
 ***
 
 ### Programing Questions + Languages
-[LeetCode](https://github.com/JinyiChenUofT/LeetCode)
+[LeetCode Easy Top Interview](https://github.com/JinyiChenUofT/LeetCode)
 
 [LeetCode Medium Top Interview](https://github.com/JinyiChenUofT/medium-TopInterview)
 
