@@ -29,9 +29,7 @@
 ***
 
 ### Programing Questions + Languages
-[LeetCode Easy Top Interview](https://github.com/JinyiChenUofT/LeetCode) _ private
-
-[LeetCode Medium Top Interview](https://github.com/JinyiChenUofT/medium-TopInterview) _ private
+[Algorithm_LeetCode](https://github.com/JinyiChenUofT/Algorithm_LeetCode)
 
 [Ruby on Rails](https://github.com/JinyiChenUofT/Ruby-on-Rails)
 
