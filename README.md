@@ -16,7 +16,7 @@
 
 [ECE496 Capstone - Housing Price Big Data + Machine Learning](https://github.com/JinyiChenUofT/Capstone---Housing-Price)
 
-[ECE496 Capstone - Housing Price Prediction Web](https://github.com/JinyiChenUofT/OPmountain)
+
 
 ***
 
